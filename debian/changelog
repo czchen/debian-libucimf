@@ -1,3 +1,10 @@
+libucimf (2.3.8-4) unstable; urgency=low
+
+  * Fix build failure with GCC 4.7. Closes: #667256.
+    Thanks doko@d.o for the patch.
+
+ -- Aron Xu <aron@debian.org>  Tue, 17 Apr 2012 08:26:40 +0200
+
 libucimf (2.3.8-3) unstable; urgency=low
 
   * debian/rules:
